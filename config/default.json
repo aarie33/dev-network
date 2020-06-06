@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://aarie33:arie321321@cluster0-tnuce.mongodb.net/dev_social?retryWrites=true&w=majority",
+    "jwtSecret": "sl_ArieJWT"
+}
