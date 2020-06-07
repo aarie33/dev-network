@@ -1,4 +1,6 @@
 {
     "mongoURI": "mongodb+srv://aarie33:arie321321@cluster0-tnuce.mongodb.net/dev_social?retryWrites=true&w=majority",
-    "jwtSecret": "sl_ArieJWT"
+    "jwtSecret": "sl_ArieJWT",
+    "githubClientId": "cc7aa921e85ce033f3d2",
+    "githubSecret": "0baa5ae1e06402970a3086b0e85f4dc9a826de2a"
 }
