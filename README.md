@@ -10,3 +10,4 @@
 <b>React Frontend</b>
 - npx create-react-app client<br />
 - npm i axios react-router-dom redux react-redux redux-thunk redux-devtools-extension moment react-moment<br />
+- npm i uuid<br />
