@@ -95,7 +95,7 @@ const AddEducation = ({ addEducation, history }) => {
 								toggleDisabled(!toDateDisabled);
 							}}
 						/>{' '}
-						<label for='current'>Current Job</label>
+						<label for='current'>Current School</label>
 					</p>
 				</div>
 				<div className='form-group'>
@@ -131,4 +131,4 @@ AddEducation.propTypes = {
 	addEducation: PropTypes.func.isRequired,
 };
 
-export default connect(null, { addEducation })(AddEducation);
+export default connect(null, { addEducation })(withRouter(AddEducation));
